@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"week2-notes.sol": "Counter"
+			"counter.sol": "Counter"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -60,12 +60,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"week2-notes.sol": {
-			"keccak256": "0x0b8a475e2d8d938b4b7012f96abf4a596b9815b0e33ee279fa21331f064e0981",
+		"counter.sol": {
+			"keccak256": "0xdf61b5afe2296b252e35b9d97af69d6d34b2f018fb3a8dde8086ae20e3266425",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a4f71209d59aedda0e797cfdc3c79d6feae673b49abdcfcff4f6dc297749b8a7",
-				"dweb:/ipfs/QmWEkqg7wFvGnnYumfMadvSme3bVi4nyQpgvk8CiTfgr75"
+				"bzz-raw://4ce3b4327cfb2ecec1aa0fba248e2d29b0bbb97ee1c3d27bdd234a00dd872a4d",
+				"dweb:/ipfs/QmYFiHmi8aQVoMUkRBTnFgST7nHn7Atbm1dxKJeWNiNF1G"
 			]
 		}
 	},
